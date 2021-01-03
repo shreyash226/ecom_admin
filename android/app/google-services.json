@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "640334233484",
+    "firebase_url": "https://mazaghar-bf12b.firebaseio.com",
+    "project_id": "mazaghar-bf12b",
+    "storage_bucket": "mazaghar-bf12b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640334233484:android:4650745c0c51c7ad4ea0a9",
+        "android_client_info": {
+          "package_name": "com.mazabappa.mazaghar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640334233484-n1dm5jjef27f6kh7665bv3j6g8n1rsj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mazabappa.mazaghar",
+            "certificate_hash": "cd666a591bd53e15ccb798d9b142c39e382fac80"
+          }
+        },
+        {
+          "client_id": "640334233484-5aaq4bq29916f05k0vojmuettcltdrrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSjML3Wug-7M38duQTd1NoMakmf15kIGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640334233484-5aaq4bq29916f05k0vojmuettcltdrrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
